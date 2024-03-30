@@ -19,11 +19,11 @@ Para configurar o ambiente, siga os passos abaixo:
 
 1. Clone o repositório:
 2. Importe o projeto em sua IDE preferida.
-3. Para instalar as bibliotecas necessário execute:
+3. Execute o programa com o seguinte comando
 
-```  
-  pip install -r requirements.txt
- ```
+```
+ python main.py
+```
 
 ## Métodos
 
