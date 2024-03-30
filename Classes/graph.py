@@ -59,7 +59,7 @@ class Graph():
 
 		return generateMappings([0] * n, 0)
 	
-
+	@staticmethod
 	def readAdjacencyMatrixFromFile(pathFile):
 		with open(pathFile, 'r') as file:
 			lines = file.readlines()
